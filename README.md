@@ -4,4 +4,4 @@
 
 ## Феєрверк - firework.sb3
 
-## test
+## tests
